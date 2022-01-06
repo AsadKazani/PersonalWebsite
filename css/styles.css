@@ -7,7 +7,7 @@ body {
 h1{
   font-family: 'Sacramento', cursive;
   font-size: 563%;
-  color: #30475E;
+  color: #181D31;
 
 }
 
@@ -15,42 +15,58 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   font-weight: normal;
-  color: #30475E;
+  color: #181D31;
 }
 
 h3{
   font-family: 'Montserrat', sans-serif;
-  color: #30475E;
+  color: #181D31;
+}
+hr{
+  background-color: #181D31;
+  height: 20px;
+  margin: 0;
 }
 .top_container{
   position: relative;
   padding-top: 100px;
-  background-color: #DDDDDD;
+  background-color: #F0E9D2;
   margin-left: 0;
   margin-right: 0;
+
 }
 
+.middle-container{
+  padding-top: 100px;
+  background-color: #E6DDC4;
+}
+
+.bottom-container{
+  background-color: #678983;
+}
 .main_text_h1{
   margin: 50px auto 0 auto;
-  color: #30475E;
+  color: #181D31;
   line-height: 2
 }
 
 .main_text_p{
-  padding: 0;
-  color: #30475E;
+  margin-bottom: 50px;
+  color: #181D31;
 }
 
 .bot-cloud{
   position: absolute;
-  bottom: 300px;
-  left: 300px;
+  bottom: 150px;
+  left: 150px;
+  width: 20%
 }
 
 .top-cloud{
   position: absolute;
-  right: 300px;
-  top: 50px;
+  bottom: 150px;
+  right: 150px;
+  width: 20%
 }
 
 .hex-image{
