@@ -6,14 +6,21 @@ body {
 
 h1{
   font-family: 'Sacramento', cursive;
+  font-size: 563%;
+  color: #30475E;
+
 }
 
 h2{
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #30475E;
 }
 
 h3{
   font-family: 'Montserrat', sans-serif;
+  color: #30475E;
 }
 .top_container{
   position: relative;
@@ -24,11 +31,14 @@ h3{
 }
 
 .main_text_h1{
-  margin-top: 0;
+  margin: 50px auto 0 auto;
+  color: #30475E;
+  line-height: 2
 }
 
 .main_text_p{
   padding: 0;
+  color: #30475E;
 }
 
 .bot-cloud{
