@@ -30,6 +30,7 @@ hr{
 .top_container{
   position: relative;
   padding-top: 100px;
+  padding-bottom: 10px;
   background-color: #F0E9D2;
   margin-left: 0;
   margin-right: 0;
